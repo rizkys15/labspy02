@@ -6,3 +6,6 @@ saya memulai dengan menyiapkan 3 variabel, yaitu a, b, dan c. lalu masukkan inpu
 jika sudah membuat script tesebut, selanjutnya membuat script untuk menentukan bilangan terbesarnya dengan mengggunakan if, elif, dan else statement
 berikut contohnya programnya
 ![gambar 1](pict/ss1.png)
+
+berikut merupakan flowchartnya
+![gambar 2](pict/flowchart.png)
